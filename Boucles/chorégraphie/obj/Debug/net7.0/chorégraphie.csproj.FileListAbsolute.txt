@@ -1,0 +1,15 @@
+/Users/natachacampos/Desktop/Boucles/chorégraphie/bin/Debug/net7.0/chorégraphie
+/Users/natachacampos/Desktop/Boucles/chorégraphie/bin/Debug/net7.0/chorégraphie.deps.json
+/Users/natachacampos/Desktop/Boucles/chorégraphie/bin/Debug/net7.0/chorégraphie.runtimeconfig.json
+/Users/natachacampos/Desktop/Boucles/chorégraphie/bin/Debug/net7.0/chorégraphie.dll
+/Users/natachacampos/Desktop/Boucles/chorégraphie/bin/Debug/net7.0/chorégraphie.pdb
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.csproj.AssemblyReference.cache
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.AssemblyInfoInputs.cache
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.AssemblyInfo.cs
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.csproj.CoreCompileInputs.cache
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.dll
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/refint/chorégraphie.dll
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.pdb
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/chorégraphie.genruntimeconfig.cache
+/Users/natachacampos/Desktop/Boucles/chorégraphie/obj/Debug/net7.0/ref/chorégraphie.dll

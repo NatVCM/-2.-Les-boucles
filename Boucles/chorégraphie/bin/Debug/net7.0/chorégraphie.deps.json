@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "chorégraphie/1.0.0": {
+        "runtime": {
+          "chorégraphie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chorégraphie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
